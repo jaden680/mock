@@ -1,0 +1,12 @@
+{
+    "endpoints": [
+        {
+            "name": "test1",
+            "path": "test1"
+        },
+        {
+            "name": "test2",
+            "path": "test2"
+        }
+    ]
+}
